@@ -1,0 +1,17 @@
+# Operating system files
+Thumbs.db
+Desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.bak
+~$*
+
+# Private local files
+private/
