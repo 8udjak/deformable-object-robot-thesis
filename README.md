@@ -1,4 +1,4 @@
-#Robot-based detection and manipulation of deformable objects
+## Robot-based detection and manipulation of deformable objects
 
 This repository contains public artifacts from my diploma thesis work:
 
